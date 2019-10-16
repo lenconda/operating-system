@@ -1,7 +1,7 @@
 # HOMEWORK 1
 
 - Time: 2019-10-16
-- Author: lenconda <[i@lenconda.top](mailto:i@lenconda.top)>
+- Author: lenconda \<[i@lenconda.top](mailto:i@lenconda.top)\>
 - OS: macOS 10.15 Catalina
 - Uname: `Darwin penghanlindeMacBook-Pro.local 19.0.0 Darwin Kernel Version 19.0.0: Wed Sep 25 20:18:50 PDT 2019; root:xnu-6153.11.26~2/RELEASE_X86_64 x86_64`
 
@@ -13,8 +13,9 @@ All of the code is written in JavaScript powered by Node.js platforms, and commi
 
 ## Legal Declaration
 
-The report is published under [Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
-The code is published and distributed under [MIT](https://opensource.org/licenses/MIT) license.
+- The report is published under [Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
+- The code is published and distributed under [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Solutions
 
